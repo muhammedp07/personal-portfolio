@@ -1,7 +1,6 @@
 import LogoTitle from '../../assets/images/logo-m.png'
 import { useEffect, useState } from 'react'
-import Loader from 'react-loaders'
-import { Link } from 'react-router-dom'
+import Loader from 'react-loaders' 
 import AnimatedLetters from '../AnimatedLetters'
 import Logo from './Logo'
 import './index.scss'
@@ -41,8 +40,13 @@ const Home = () => {
                 idx={26} />
                 </h1>
                 <h2>CyberSecurity Enthusiast / Ethical Hacker / Software Developer / Web Developer</h2>
-                <Link to="/contact" className='flat-button'>CONTACT ME
-                </Link>
+                <a href= "/MuhammedP_Resume.pdf" 
+                className='flat-button' 
+                target="_blank" 
+                rel="noopener noreferrer">
+                LAUNCH MY RESUME
+                </a>
+                
             </div>
             <Logo />
         </div>
