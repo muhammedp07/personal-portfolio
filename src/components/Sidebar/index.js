@@ -4,7 +4,7 @@ import LogoS from '../../assets/images/logo-s.png'
 import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope, faHome, faUser } from '@fortawesome/free-solid-svg-icons'
-import { faGithub, faLinkedin, faLinux } from '@fortawesome/free-brands-svg-icons'
+import { faGithub, faLinkedin, faCloudflare } from '@fortawesome/free-brands-svg-icons'
 
 const  Sidebar = () => (
     <div className='nav-bar'>
@@ -36,7 +36,7 @@ const  Sidebar = () => (
             </li>
             <li>
                 <a target="_blank" rel="noreferrer" href='https://tryhackme.com/p/P47N'>
-                    <FontAwesomeIcon icon={faLinux} color="#4d4d4e" />
+                    <FontAwesomeIcon icon={faCloudflare} color="#4d4d4e" />
                 </a>
             </li>
         </ul>
