@@ -13,6 +13,16 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import './index.scss'
 
 const About = () => {
+  const [letterClass, setLetterClass] = useState('text-animate')
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setLetterClass('text-animate-hover')
+    }, 3000);
+
+    // Cleanup function to clear the timeout if the component unmounts
+    return () => clearTimeout(timer);
+  }, []);
 
   return (
     <>
@@ -20,6 +30,7 @@ const About = () => {
         <div className="text-zone">
           <h1>
             <AnimatedLetters
+            letterClass={letterClass}
               strArray={['A', 'b', 'o', 'u', 't', ' ', 'm', 'e']}
               idx={15}
             />
