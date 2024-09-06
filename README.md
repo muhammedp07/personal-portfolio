@@ -22,19 +22,6 @@ Welcome to my portfolio website repository! This is a personal portfolio site bu
 
 Check out the live version of the portfolio [here](link-to-live-demo).
 
-## ⚙️ Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/your-portfolio-repo.git
-
-   cd your-portfolio-repo
-
-   npm install
-
-   npm start```
-   
 ## 📄 Resume
 
 You can view and download my resume directly from the homepage by clicking the "Launch My Resume" button.
@@ -56,6 +43,20 @@ Feel free to customize the content, styling, or functionality according to your 
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions, improvements, or find any issues, please create a pull request or open an issue.
+
+## ⚙️ Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/your-portfolio-repo.git
+
+   cd your-portfolio-repo
+
+   npm install
+
+   npm start```
+   
 
 ## 📧 Contact
 
