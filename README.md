@@ -18,10 +18,6 @@ Welcome to my portfolio website repository! This is a personal portfolio site bu
 - **About Page**: Provides a detailed overview of my background, skills, and interests.
 - **Contact Page**: Offers ways to get in touch with me, including social media links and a cool spinning cube animation for a touch of flair.
 
-## 📸 Preview
-
-![Portfolio Screenshot](link-to-your-screenshot)
-
 ## 🔗 Live Demo
 
 Check out the live version of the portfolio [here](link-to-live-demo).
