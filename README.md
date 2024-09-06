@@ -35,6 +35,11 @@ Check out the live version of the portfolio [here](link-to-live-demo).
 
    npm start```
    
+## 📄 Resume
+
+You can view and download my resume directly from the homepage by clicking the "Launch My Resume" button.
+
+   
 ## 📝 Usage
 
 - **Navigate**: Use the navigation bar to move between sections like Home, About, and Contact.
