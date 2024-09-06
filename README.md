@@ -64,3 +64,4 @@ For any questions or inquiries, feel free to reach out:
 
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammedpatel007/)
 
+Note: This project is inspired by freeCodeCamp.org
