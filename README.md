@@ -33,4 +33,28 @@ Check out the live version of the portfolio [here](link-to-live-demo).
 
    npm install
 
-   npm start
+   npm start```
+   
+## 📝 Usage
+
+- **Navigate**: Use the navigation bar to move between sections like Home, About, and Contact.
+- **Responsive Design**: The site is designed to be responsive and should work well on both desktop and mobile devices.
+
+## 🎨 Customization
+
+Feel free to customize the content, styling, or functionality according to your needs. You can modify:
+
+- **Content**: Update the text, links, and project details in the relevant components.
+- **Styling**: Adjust styles in the SCSS files to match your personal design preferences.
+- **Components**: Add or remove components as needed to fit your portfolio.
+  
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions, improvements, or find any issues, please create a pull request or open an issue.
+
+## 📧 Contact
+
+For any questions or inquiries, feel free to reach out:
+
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammedpatel007/)
+
