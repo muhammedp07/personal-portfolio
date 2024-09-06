@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website repository! This is a personal portfolio site built with React.js, showcasing my skills, projects, and achievements. Feel free to explore and check out my work.
 
-####NOTE: I Am still building this site more and will add more pages into it gradually.
+#### NOTE: I Am still building this site more and will add more pages into it gradually.
 
 ## 🛠️ Technologies Used
 
