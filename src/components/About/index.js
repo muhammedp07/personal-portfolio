@@ -36,18 +36,21 @@ const About = () => {
             />
           </h1>
           <p align="LEFT">
-            I'm a very ambitious front-end developer looking for a role in an
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+          Hey, I’m Muhammed Patel, a passionate Computer Science student and 
+          cybersecurity enthusiast on a mission to make the digital world safer. 
+          I thrive on challenges—whether it’s competing in CTF tournaments or 
+          leveling up my skills on TryHackMe, where I’m ranked in the top 3%.
           </p>
           <p align="LEFT"> 
-            I'm quiet confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+          Naturally curious and constantly driven to learn, I’m always diving 
+          into new technologies and solving complex security puzzles. 
+          Cybersecurity isn't just my career path—it's my obsession, and 
+          I'm always looking for ways to push the boundaries.
           </p>
           <p align="LEFT">
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+          In a nutshell: I’m tech-obsessed, 
+          a problem-solver at heart, and perpetually 
+          evolving in the world of cybersecurity.
           </p>
         </div>
 
