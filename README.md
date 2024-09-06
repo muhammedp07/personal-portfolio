@@ -1,4 +1,5 @@
 # Portfolio Website
+NOTE: I Am still building this site more and will add more pages into it gradually.
 
 Welcome to my portfolio website repository! This is a personal portfolio site built with React.js, showcasing my skills, projects, and achievements. Feel free to explore and check out my work.
 
@@ -14,7 +15,6 @@ Welcome to my portfolio website repository! This is a personal portfolio site bu
 
 - **Home Page**: Highlights the main sections of the portfolio with an introduction and a call to action.
 - **About Page**: Provides a detailed overview of my background, skills, and interests.
-- **Projects Page**: Showcases various projects I've worked on with descriptions and links.
 - **Contact Page**: Offers ways to get in touch with me, including social media links and a cool spinning cube animation for a touch of flair.
 
 ## 📸 Preview
