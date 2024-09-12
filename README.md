@@ -4,7 +4,8 @@ Welcome to my portfolio website repository! This is a personal portfolio site bu
 
 #### NOTE: I Am still building this site more and will add more pages into it gradually.
 
-![Demo](https://github.com/muhammedp07/personal-portfolio/blob/main/src/assets/images/homepageVID.gif)
+DEMO HomePage
+![HomePage](https://github.com/muhammedp07/personal-portfolio/blob/main/src/assets/images/homepageVID.gif)
 
 
 ## 🛠️ Technologies Used
