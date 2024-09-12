@@ -4,6 +4,9 @@ Welcome to my portfolio website repository! This is a personal portfolio site bu
 
 #### NOTE: I Am still building this site more and will add more pages into it gradually.
 
+![Demo](https://github.com/muhammedp07/personal-portfolio/raw/main/assets/homepageVID.gif)
+
+
 ## 🛠️ Technologies Used
 
 - **React.js**: For building the user interface.
