@@ -6,8 +6,12 @@ Welcome to my portfolio website repository! This is a personal portfolio site bu
 
 HomePage
 ![HomePage](https://github.com/muhammedp07/personal-portfolio/blob/main/src/assets/images/homepageVID.gif)
+
+About ME
 ![AboutME](https://github.com/muhammedp07/personal-portfolio/blob/main/src/assets/images/aboutmeVID.gif)
 
+Contact ME
+![ContactME](https://github.com/muhammedp07/personal-portfolio/blob/main/src/assets/images/conatcmeVID.gif)
 
 ## 🛠️ Technologies Used
 
