@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website repository! This is a personal portfolio site built with React.js, showcasing my skills, projects, and achievements. Feel free to explore and check out my work.
 
-#### NOTE: I Am still building this site more and will add more pages into it gradually.
+#### NOTE: The site has not yet been hosted due to the use of GSAP-trial, a JavaScript animation library that requires a GSAP membership for full features. Currently, I am not planning to purchase the membership, but I may consider it in the future or replace the animations with alternatives that do not require a membership. I Am still building this site more and will add more pages into it gradually. :)
 
 HomePage
 ![HomePage](https://github.com/muhammedp07/personal-portfolio/blob/main/src/assets/images/homepageVID.gif)
